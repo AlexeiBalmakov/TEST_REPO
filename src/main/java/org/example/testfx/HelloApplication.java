@@ -17,6 +17,7 @@ public class HelloApplication extends Application {
         stage.setScene(scene);
         stage.show();
         System.out.println("пуш на сервер");
+        System.out.println("пуш на сервер12354");
     }
 
     public static void main(String[] args) {
