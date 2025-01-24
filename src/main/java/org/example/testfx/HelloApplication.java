@@ -16,6 +16,7 @@ public class HelloApplication extends Application {
         stage.setTitle("Калькулятор");
         stage.setScene(scene);
         stage.show();
+        System.out.println("пуш на сервер");
     }
 
     public static void main(String[] args) {
